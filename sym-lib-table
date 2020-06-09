@@ -1,4 +1,6 @@
 (sym_lib_table
-  (lib (name "mullet-pcb-rescue")(type "Legacy")(uri "${KIPRJMOD}/mullet-pcb-rescue.lib")(options "")(descr ""))
-  (lib (name "discipline-pcb-rescue")(type "Legacy")(uri "${KIPRJMOD}/discipline-pcb-rescue.lib")(options "")(descr ""))
+  (lib (name mullet-pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/mullet-pcb-rescue.lib)(options "")(descr ""))
+  (lib (name discipline-pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/discipline-pcb-rescue.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri "C:/Users/Flight Dreamer/Documents/KiCAD/arduino-kicad-library/arduino.lib")(options "")(descr ""))
+  (lib (name teensy)(type Legacy)(uri "C:/Users/Flight Dreamer/Documents/KiCAD/teensy_library/teensy.lib")(options "")(descr ""))
 )
